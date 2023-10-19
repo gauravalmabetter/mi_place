@@ -125,8 +125,8 @@ app.post("/api/create-checkout-session", async (req, res) => {
     ],
     mode: "payment",
     // success_url: "https://www.youtube.com/",
-    success_url: "http://localhost:3000/mybookings",
-    cancel_url: "http://localhost:3000/error",
+    success_url: "https://miplace.onrender.com/mybookings",
+    cancel_url: "https://miplace.onrender.com/error",
   });
   res.json({ id: session.id });
   console.log(products);

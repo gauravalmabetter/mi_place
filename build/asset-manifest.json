@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dffc4d56.css",
+    "main.js": "/static/js/main.803227ed.js",
+    "static/js/787.8525fc78.chunk.js": "/static/js/787.8525fc78.chunk.js",
+    "static/media/room2.webp": "/static/media/room2.5db66aeab7c289ae6ade.webp",
+    "static/media/jaipur.webp": "/static/media/jaipur.e066fe6e15de1d349f16.webp",
+    "static/media/Pune.webp": "/static/media/Pune.b2af62419f6885335aa4.webp",
+    "static/media/ahmedabad.webp": "/static/media/ahmedabad.57adbc1d1b33e9bc245b.webp",
+    "static/media/Rectangle-3webp.webp": "/static/media/Rectangle-3webp.5dffb42c788b32509bae.webp",
+    "static/media/Delhi.webp": "/static/media/Delhi.0224e14dc57130616d03.webp",
+    "static/media/room1.webp": "/static/media/room1.d7c0748278125a106bee.webp",
+    "static/media/frame.webp": "/static/media/frame.321057cf53bd837b8074.webp",
+    "static/media/reception.webp": "/static/media/reception.2415a95b6576bc0fbcc4.webp",
+    "static/media/room4.webp": "/static/media/room4.85cc5d6836be63363d1b.webp",
+    "static/media/rec.webp": "/static/media/rec.ccae86ce734434ebc1d2.webp",
+    "static/media/scene.webp": "/static/media/scene.d5ee91cdbb85e0f4b91a.webp",
+    "static/media/img4.webp": "/static/media/img4.f74146ff8b3c82a1ba55.webp",
+    "static/media/girl2.png": "/static/media/girl2.4491a519efac3be6b66e.png",
+    "static/media/img3.webp": "/static/media/img3.7ea58b378c22364658cf.webp",
+    "static/media/img2.webp": "/static/media/img2.fd30687ad1556680287e.webp",
+    "static/media/contactus.webp": "/static/media/contactus.14ef5a052cdd5a829cd1.webp",
+    "static/media/Hotel1.webp": "/static/media/Hotel1.d7234e59885a4496fe33.webp",
+    "static/media/Hotel15.webp": "/static/media/Hotel15.e87ef1bf8e21f4f696ca.webp",
+    "static/media/BG-1 (1).webp": "/static/media/BG-1 (1).1cd1adcaf14977609ac6.webp",
+    "static/media/BG (1).webp": "/static/media/BG (1).956e81ac34919b29ff57.webp",
+    "static/media/loader.svg": "/static/media/loader.82310987648466ebcd0bf34760eca966.svg",
+    "index.html": "/index.html",
+    "main.dffc4d56.css.map": "/static/css/main.dffc4d56.css.map",
+    "main.803227ed.js.map": "/static/js/main.803227ed.js.map",
+    "787.8525fc78.chunk.js.map": "/static/js/787.8525fc78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dffc4d56.css",
+    "static/js/main.803227ed.js"
+  ]
+}
